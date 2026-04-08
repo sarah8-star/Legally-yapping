@@ -5,6 +5,11 @@
 layout: splash
 author_profile: true
 title: "Welcome!"
+
+header:
+  overlay_image: /assets/images/banner.jpeg
+  overlay_filter: 0.4
+  caption: "Yapping our way through Law School"
 ---
 Hi, We are Jas & Sarah.
 
