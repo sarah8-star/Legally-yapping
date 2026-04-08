@@ -17,7 +17,7 @@ plugins:
 # Author profile
 author:
   name: "Jas & Sarah"
-  avatar: ""
+  avatar: "/assets/images/profile.jpg"
   bio: "Sharing what we have learnt."
   location: "India"
   links:
@@ -35,9 +35,11 @@ header_pages:
 
 # Footer
 footer:
-  links:
-    - label: "GitHub"
-      url: "https://github.com/yourusername"
+   links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:queries@legallyyapping.com"
+
 
 # Defaults for posts
 defaults:
