@@ -26,7 +26,7 @@ author:
       url: "mailto:queries@legallyyapping.com"
 
 # Appearance
-minimal_mistakes_skin: "dark"  # try: default, dark, air, contrast
+minimal_mistakes_skin: "neon"  # try: default, dark, air, contrast
 
 # Navigation
 header_pages:
